@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-28T17:17:05-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Todo</title><link href="http://localhost:4000/2023/04/28/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2023-04-28T00:00:00-05:00</published><updated>2023-04-28T00:00:00-05:00</updated><id>http://localhost:4000/2023/04/28/TODO</id><content type="html" xml:base="http://localhost:4000/2023/04/28/TODO.html"><![CDATA[<h3 id="rose-hub-website-updating">Rose-Hub website updating</h3>
+<ul>
+  <li>home page
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />title to change into one line</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />content should be updating (checking email)</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />update new event date</li>
+    </ul>
+  </li>
+  <li>project
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />add <em>home page banner (rose-hub)</em></li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />remove all project</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />add University name and their Link</li>
+    </ul>
+  </li>
+  <li>events
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />update new <em>agenda</em></li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />update new event date</li>
+    </ul>
+  </li>
+  <li>member
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />add new company <em>Histosonic</em></li>
+    </ul>
+  </li>
+  <li>CONTACTS
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />adding more people’s information</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>haoyi</name></author><summary type="html"><![CDATA[Rose-Hub website updating home page title to change into one line content should be updating (checking email) update new event date project add home page banner (rose-hub) remove all project add University name and their Link events update new agenda update new event date member add new company Histosonic CONTACTS adding more people’s information]]></summary></entry><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00-05:00</published><updated>2018-08-22T00:00:00-05:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
+edible berry of several species of woody vines in the genus Actinidia.</p>
+
+<p>The most common cultivar group of kiwifruit is oval, about the size of
+a large hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm
+(1.8–2.2 in) in diameter). It has a fibrous, dull greenish-brown skin
+and bright green or golden flesh with rows of tiny, black, edible
+seeds. The fruit has a soft texture, with a sweet and unique flavor.</p>]]></content><author><name>ted</name></author><summary type="html"><![CDATA[Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.]]></summary></entry></feed>

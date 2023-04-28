@@ -1,0 +1,23 @@
+/* Insert any global styles here */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Add styles for header, main, and footer elements */
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  /* Add any additional styles for sections or other elements */
+  
